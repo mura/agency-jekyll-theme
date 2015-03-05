@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: KOSEN
+subtitle: 鳥羽商船高等専門学校で学びました
 layout: default
 modal-id: 2
 date: 2014-07-17

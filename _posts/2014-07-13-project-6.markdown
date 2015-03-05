@@ -1,10 +1,10 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Camera
+subtitle: カメラもかじってます
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
+date: 2014-07-13
+img: camera.jpg
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014

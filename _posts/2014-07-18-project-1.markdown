@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Ise-Shima
+subtitle: 三重県志摩市で生まれ育ちました
 layout: default
 modal-id: 1
 date: 2014-07-18

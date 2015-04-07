@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-13
 img: camera.jpg
-thumbnail: roundicons-thumbnail.png
+thumbnail: camera-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
